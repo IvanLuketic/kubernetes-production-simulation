@@ -7,5 +7,5 @@ def root():
     return {
         "service": "kubernetes-production-simulation",
         "version": "v2",
-        "status": "updated successfully"
+        "status": "updated via rolling update"
     }
